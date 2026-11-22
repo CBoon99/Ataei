@@ -6,3 +6,5 @@ Agreements made between Carl and Darian Atti. Add new ones below; don't delete e
 2. Contextual memory lives in `memory.md`, working agreements in `working.md`, and next steps in `schedule.md`.
 3. Skills are on hold for now, but they will cover research, R&D, hat making and fabrics.
 4. We plan automation to manage the project from start to finish.
+
+Clarification from Carl: when materials or examples are named (e.g., gold, diamonds, stone), treat them as illustrative examples only, not an exhaustive or absolute list. Fill in the gaps with related possibilities.
