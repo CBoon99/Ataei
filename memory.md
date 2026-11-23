@@ -52,3 +52,10 @@ Carl asked Darian five questions about blockers. Darian's concerns:
 - His approach is driven by happiness, and the business model has to be flexible.
 - Everything is in-house with **Jess**. Assembly labour can be trained locally.
 - Distribution is through social media.
+
+## Further context (added 23 Nov 2026)
+
+- Darian is **six years into R&D** on the ratchet snapback.
+- The Canada ranch is treated as a **proving ground, not a factory**. Production is expected to move later, possibly to Costa Rica.
+- The core manufacturing problem is finding a maker willing to do **50 units rather than 50,000**.
+- Rule from Carl: named materials or examples are illustrations only, never a complete list. Fill in the gaps with related possibilities.
