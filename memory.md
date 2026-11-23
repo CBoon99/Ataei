@@ -24,3 +24,7 @@ Contextual memory for this project. Add new facts below; don't delete earlier en
 ## Needs
 
 - A **daily social-media researcher** to find the right people.
+
+## Notes
+
+- A full transcript of the Carl and Darian conversation is being kept. `profile.md` (Darian's profile) now sits alongside `memory.md`, `working.md` and `schedule.md`.
