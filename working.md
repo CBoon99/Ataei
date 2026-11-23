@@ -31,12 +31,12 @@ Clarification from Carl: when materials or examples are named (e.g., gold, diamo
 
 1. Carl asked Darian to name his five biggest concerns. Darian gave manufacturing location, copycats, distribution, and how hard it is to find small-batch manufacturers.
 2. Carl clarified that named materials are examples, not absolute lists.
-3. Carl asked Darian Bot for suggestions, starting with the first concern. Darian Bot suggested treating the Canada ranch as a proving ground, not a factory.
+3. Carl asked for suggestions, starting with the first concern. One suggestion was to treat the Canada ranch as a proving ground, not a factory.
 4. Darian replied that Canada doesn't suit his lifestyle. He wants to master the skills, then move to Costa Rica. He believes work driven by happiness makes success more likely, and the business model has to be flexible. Everything is in-house with Jess, the only missing piece is assembly labour, which can be trained locally, and social media is where everything gets posted.
-5. Darian Bot flagged sourcing materials near Canada versus near Costa Rica. Darian said his Italian tannery contacts solve that.
+5. Sourcing materials near Canada versus near Costa Rica was flagged. Darian said his Italian tannery contacts solve that.
 6. Carl noted Darian is six years into R&D and said he would add that context to the repo.
-7. Darian Bot asked Darian for the single hardest part of the ratchet system. Darian said it is finding a company willing to make 50 units rather than 50,000. He has been through two companies that had problems, and is thinking of securing investment so he can go direct to the best manufacturers.
-8. Carl corrected one point: Darian meant 50 units, not £50,000 for 50 units. Darian Bot reframed it as fifty units versus fifty thousand.
+7. Darian was asked for the single hardest part of the ratchet system. Darian said it is finding a company willing to make 50 units rather than 50,000. He has been through two companies that had problems, and is thinking of securing investment so he can go direct to the best manufacturers.
+8. Carl corrected one point: Darian meant 50 units, not £50,000 for 50 units. It was reframed as fifty units versus fifty thousand.
 9. Carl asked whether the ratchet skills could be brought in-house. Darian said realistically only Turkey or China could do it, and a 50 to 100 unit order without investment would need a maker who trusts and believes in the product.
 10. Darian clarified that the 50 units will serve as funding bait. Investors will be told it is the first version, and that investment pays for the fixes and a larger volume at a lower price.
 

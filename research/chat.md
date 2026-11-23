@@ -1,6 +1,6 @@
 # Chat log
 
-Dated log of what was said and reported on calls between Carl, Darian and Darian Bot. Add new entries below; don't delete earlier ones.
+Dated log of what was said and reported on calls. Add new entries below; don't delete earlier ones.
 
 ## 23 Nov 2026: Call with Carl, leather hat research findings reported
 
